@@ -58,11 +58,11 @@ public class HelloWorld {
 		NYCbuilding[0].paintbuilding();
 		System.out.println(NYCbuilding[1].createbuiding("Nyc surya Building", 500, 20, 10, 12344));
 		NYCbuilding[1].paintbuilding();
-		List <> l = new Arraylist<>();
+		 
 		List<String> mylist = new ArrayList<String>();
 		mylist.add("Surya");
 		mylist.add("Balu");
-		System.out.println(mylist.size());
+ 	System.out.println(mylist.size());
 		
 		
 	}
