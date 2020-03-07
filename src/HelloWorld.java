@@ -3,7 +3,7 @@ import java.lang.Object;
 import java.util.ArrayList;
 import java.util.List;
 
-class Building
+ class Building
 
 {
 	//variables
@@ -49,9 +49,10 @@ public class HelloWorld {
 		//Building NYCbuilding = new Building();
 		int a[] = new int[5];
 		a[0]=1;
-		Building NYCbuilding[] = new Building[5];
+		System.out.println("Hi Surya");
+		//Building NYCbuilding[] = new Building[5];
 		
-		NYCbuilding[0].createbuiding("Nyc surya Building", 500, 20, 10, 12344);
+		/*NYCbuilding[0].createbuiding("Nyc surya Building", 500, 20, 10, 12344);
 		
 		Building mybuild = new Building (500,20,10,12344,"Nyc surya Building");
 		
@@ -62,7 +63,7 @@ public class HelloWorld {
 		List<String> mylist = new ArrayList<String>();
 		mylist.add("Surya");
 		mylist.add("Balu");
- 	System.out.println(mylist.size());
+ 	System.out.println(mylist.size());*/
 		
 		
 	}
